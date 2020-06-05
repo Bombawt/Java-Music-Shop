@@ -1,4 +1,4 @@
 package accessories;
 
-public class GuitarStrings {
+public class GuitarStrings extends Accessory{
 }

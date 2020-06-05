@@ -1,4 +1,4 @@
 package accessories;
 
-public class DrumSticks {
+public class DrumSticks extends Accessory{
 }

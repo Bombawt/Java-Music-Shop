@@ -1,4 +1,6 @@
 package accessories;
 
-public class Accessory {
+import behaviours.ISell;
+
+public abstract class Accessory implements ISell {
 }

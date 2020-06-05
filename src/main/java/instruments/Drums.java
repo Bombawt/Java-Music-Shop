@@ -1,4 +1,4 @@
 package instruments;
 
-public class Drums {
+public class Drums extends Instrument{
 }

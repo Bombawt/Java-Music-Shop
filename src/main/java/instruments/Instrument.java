@@ -1,4 +1,7 @@
 package instruments;
 
-public class Instrument {
+import behaviours.IPlay;
+import behaviours.ISell;
+
+public abstract class Instrument implements IPlay, ISell {
 }

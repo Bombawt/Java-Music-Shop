@@ -1,4 +1,4 @@
 package accessories;
 
-public class Headphones {
+public class Headphones extends Accessory{
 }

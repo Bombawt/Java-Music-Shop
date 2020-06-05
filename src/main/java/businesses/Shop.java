@@ -1,4 +1,6 @@
 package businesses;
 
-public class Shop {
+import behaviours.ISell;
+
+public class Shop implements ISell {
 }
